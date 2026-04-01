@@ -1,8 +1,8 @@
 class Ipwhoami < Formula
   desc "IP geolocation lookup from your terminal"
   homepage "https://github.com/vineethkrishnan/ipwhoami"
-  url "https://github.com/vineethkrishnan/ipwhoami/archive/refs/tags/ipwhoami-v1.1.0.tar.gz"
-  sha256 "ad2a09c735fd014baf09db0cd08cc61a4cd19a197b76bd3173f862246a7b4da3"
+  url "https://github.com/vineethkrishnan/ipwhoami/archive/refs/tags/ipwhoami-v1.1.1.tar.gz"
+  sha256 "58238ca31d60068ef1e4d9d3b49cb476f64023d6f4957c586a595180b9037a9f"
   license "MIT"
 
   depends_on "node" => ">=18"
