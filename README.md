@@ -1,23 +1,23 @@
-# homebrew-ipwho
+# homebrew-ipwhoami
 
-Homebrew tap for [ipwho](https://github.com/vineethkrishnan/ipwho) — IP geolocation lookup from your terminal.
+Homebrew tap for [ipwhoami](https://github.com/vineethkrishnan/ipwhoami) — IP geolocation lookup from your terminal.
 
 ## Install
 
 ```bash
-brew tap vineethkrishnan/ipwho
-brew install ipwho
+brew tap vineethkrishnan/ipwhoami
+brew install ipwhoami
 ```
 
 ## Update
 
 ```bash
-brew upgrade ipwho
+brew upgrade ipwhoami
 ```
 
 ## Uninstall
 
 ```bash
-brew uninstall ipwho
-brew untap vineethkrishnan/ipwho
+brew uninstall ipwhoami
+brew untap vineethkrishnan/ipwhoami
 ```
